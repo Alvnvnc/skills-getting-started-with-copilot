@@ -136,6 +136,24 @@ button:hover {
   display: none;
 }
 
+/* Participant information on activity cards */
+.participant-count {
+  font-size: 0.9em;
+  color: #2c5282;
+}
+
+.participant-list {
+  margin: 6px 0 0 18px;
+  padding: 0;
+  font-size: 0.85em;
+  color: #4a5568;
+  list-style-type: circle;
+}
+
+.participant-list li {
+  margin-bottom: 2px;
+}
+
 footer {
   text-align: center;
   margin-top: 30px;
